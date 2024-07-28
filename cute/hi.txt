@@ -1,2 +1,9 @@
 hiii
+<<<<<<< HEAD
 hello
+=======
+hello
+stash
+cute
+cuteeee
+>>>>>>> 28d9f64 (hee)
